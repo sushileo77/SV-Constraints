@@ -1,7 +1,7 @@
-// FB question
 // Only 4 elements need to be unique, there after they can repeat
-
-
+// Please Refer Commit Notes for futher information
+// Author : Sushant Sakhalkar
+//
 class ABC;
   rand bit[4:0] item;
   bit[4:0] item_q[$];
