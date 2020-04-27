@@ -1,3 +1,5 @@
+// Constraint for Tic-Tac-Toe Game
+// Author : Sushant Sakhalkar
 
 class tic_tac_toe;
   rand bit a[3][3];
